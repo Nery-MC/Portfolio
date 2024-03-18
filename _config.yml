@@ -1,7 +1,18 @@
 theme: jekyll-theme-minimal 
 title: Nery's Portfolio 
 description: Bookmark this to keep an eye on my project updates! 
-logo: /images/avatar.png
+
+author: 
+  # Biographic Information 
+  avatar: /images/avatar.png
+  name: Nery Matías Calmo
+  pronouns: He/Him/His
+  bio: 
+  location: Boston, MA
+  employer: Tufts Univerisity
+  orcid: "https://orcid.org/0009-0007-9677-2994"
+  email: "nery.matias_calmo@tufts.edu"
+  
 
 lsi: false
 safe: true
