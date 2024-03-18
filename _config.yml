@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal 
 title: Nery's Portfolio 
 description: Bookmark this to keep an eye on my project updates! 
-logo: /images/head_shot.png
+logo: /images/avatar.png
 
 lsi: false
 safe: true
